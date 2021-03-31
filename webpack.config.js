@@ -1,7 +1,6 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin')
 const path = require('path')
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 module.exports = {
   mode: 'production',
@@ -9,12 +8,12 @@ module.exports = {
     rules: [
       {
         test: /\.css$/i,
-        use:[MiniCssExtractPlugin.loader, 'css-loader',{
+        use: [MiniCssExtractPlugin.loader, 'css-loader', {
           loader: 'postcss-loader',
           options: {
             postcssOptions: {
               plugins: [
-                ['postcss-preset-env'],
+                ['postcss-preset-env', 'autoprefixer'],
               ],
             },
           },
@@ -22,7 +21,7 @@ module.exports = {
       },
       {
         test: /\.(png|jpe?g|gif)$/i,
-        use:[
+        use: [
           {
             loader: 'file-loader',
           },

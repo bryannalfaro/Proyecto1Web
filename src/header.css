@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.body{
+    width: 100%;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #003673;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.whatss{
+
+    background-image: url('whatss.png');
+    width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+    background-color:#003673;
+    background-size: 30px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px;
+    background-position: center;
+    border: 1px solid #4A90E2;
+}
+
+.login{
+    display: flex;
+    line-height: 42px;
+
+    background-color:#003673;
+    border-radius: 3.125rem;
+    color: white;
+    border: 1px solid #4A90E2;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    font-family:'Montserrat';
+
+
+}

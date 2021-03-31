@@ -1,3 +1,5 @@
 body{
-    background-image: url('react-beta.png');
+    margin: 0;
+    padding:0;
+    background-color:white;
 }

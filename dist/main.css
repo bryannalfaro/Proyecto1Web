@@ -1,3 +1,25 @@
+.body{
+    width: 100%;
+
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+.whatss{
+    background-image: url(a3187795143975b3413f14b55536a944.png);
+    width: 35px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+    border-radius: 50%;
+    text-align: center;
+    padding: 5px;
+}
 body{
-    background-image: url(f5706fa5f32548361e929a41a33bbf07.png);
+    margin: 0;
+    padding:0;
+    background-color:black;
 }
