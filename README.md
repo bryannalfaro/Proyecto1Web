@@ -5,17 +5,17 @@
 Table of contents |
 ------------------|
 | - [Technologies](#technologies)|
-| - [Installation](http://github.com)|
-|- [Usage](http://github.com)|
-|- [Autor](http://github.com)|
+| - [Installation](#installation)|
+|- [Usage](#usage)|
+|- [Author](#author)|
 
 ## Technologies
 The technologies that was involved in the construction of the project was
 
  | | Technology| Description | More information |
 -------------------|--------------|---|---|
-|:white_check_mark:| React | asd | https://es.reactjs.org/docs/getting-started.html
-| :white_check_mark: | Webpack| asd | https://webpack.js.org/
+|:white_check_mark:| React | Library of JavaScript based on components for build better user interfaces | https://es.reactjs.org/docs/getting-started.html
+| :white_check_mark: | Webpack| It is a module bundler for JavaScript applications | https://webpack.js.org/
 |:white_check_mark: | Babel| asd | https://babeljs.io/
 |:white_check_mark: | PostCSS| asd | https://postcss.org/
 |:white_check_mark: | ESLint| asd | https://eslint.org/
