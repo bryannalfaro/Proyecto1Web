@@ -44,6 +44,12 @@ module.exports = {
     filename: 'bundle.js',
   },
   plugins: [new HtmlWebpackPlugin({
-    template: './public/index.html',
+    templateContent: `
+    <html>
+      <body>
+        <div id="root" />
+      </body>
+    </html>
+  `,
   }), new MiniCssExtractPlugin()],
 }

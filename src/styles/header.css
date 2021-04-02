@@ -14,7 +14,7 @@
 }
 .whatss{
 
-    background-image: url('whatss.png');
+    background-image: url('../images/whatss.png');
     width: 40px;
     height: 40px;
     background-repeat: no-repeat;
@@ -41,3 +41,26 @@
 
 
 }
+
+.market{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color: white;
+    line-height: 42px;
+    background-color:#003673;
+    border-radius: 3.125rem;
+    color: white;
+    border: 1px solid #4A90E2;
+    padding: 0 30px;
+    letter-spacing: 1px;
+    font-family:'Montserrat';
+}
+
+.icon{
+    text-align: center;
+    content: url('../images/basket.png');
+    width:20px;
+    height:20px;
+    padding-left: 2px;
+  }
