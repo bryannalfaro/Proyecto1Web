@@ -9,7 +9,7 @@ Table of contents |
 |- [Usage](#usage)|
 |- [Author](#author)|
 
-## Technologies
+- ## Technologies
 The technologies that was involved in the construction of the project was
 
  | | Technology| Description | More information |
@@ -22,7 +22,7 @@ The technologies that was involved in the construction of the project was
 |:white_check_mark: | npm| It is the package manager for the Node JS platform  | https://www.npmjs.com/
 |:white_check_mark: | Node JS|  It is a JavaScript runtime environment for run JS programs | https://nodejs.org/es/
 
-## Installation
+- ##  Installation
 ### First you have to clone the repository  
 #### In your carpet open a terminal an run:  
 ## `git init` 
@@ -38,12 +38,12 @@ You can download it in: https://nodejs.org/es/
 ## `npm run build`
 #### This will generate the dist/ folder that have the compiled code using Webpack.
 
-## Usage
+- ## Usage
 ### Now run   
 ## `npm run serve`
 #### The app will be displayed in http://localhost:4000
 
-## Author
+- ## Author
 |Bryann Alfaro|
 ------------------|
   |<div align="center"><image src = "https://avatars.githubusercontent.com/u/46506166?v=4" width="100px" height="100px"></image></div>|
