@@ -23,21 +23,25 @@ The technologies that was involved in the construction of the project was
 |:white_check_mark: | Node JS|  It is a JavaScript runtime environment for run JS programs | https://nodejs.org/es/
 
 ## Installation
-
-#### For run the project you need to install NodeJS  
-You can download in: https://nodejs.org/es/
-#### Then, you have to run:  
-`npm install`
+### First you have to clone the repository  
+#### In your carpet open a terminal an run:  
+## `git init` 
+##  `git clone https://github.com/bryannalfaro/Proyecto1Web/`
+   
+### For run the project you need to install NodeJS  
+You can download it in: https://nodejs.org/es/
+### Then, you have to run in your terminal:  
+## `npm install`
 #### This will generate the node_modules that are the dependencies for the project.
 
-#### After that you have to run:
-`npm run build`
+### After that you have to run:
+## `npm run build`
 #### This will generate the dist/ folder that have the compiled code using Webpack.
 
 ## Usage
-#### Now run   
-`npm run serve`
-#### it will be displayed in http://localhost:4000
+### Now run   
+## `npm run serve`
+#### The app will be displayed in http://localhost:4000
 
 ## Author
 |Bryann Alfaro|
