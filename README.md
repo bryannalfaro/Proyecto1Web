@@ -4,10 +4,11 @@
 
 Table of contents |
 ------------------|
-| - [Technologies](#technologies)|
-| - [Installation](#installation)|
-|- [Usage](#usage)|
-|- [Author](#author)|
+|    [1. Technologies](#technologies)|
+|    [2. Installation](#installation)|
+|    [3. Usage](#usage)|
+|   [4. Author](#author)|
+|   [5. License](#license)|
 
 - ## Technologies
 The technologies that was involved in the construction of the project was
@@ -49,6 +50,6 @@ You can download it in: https://nodejs.org/es/
   |<div align="center"><image src = "https://avatars.githubusercontent.com/u/46506166?v=4" width="100px" height="100px"></image></div>|
 |http://github.com/bryannalfaro|
 
-- ## License & Copyright
+- ## License
 &copy; Bryann Alfaro  
 Licensed under the [MIT License](LICENSE)
