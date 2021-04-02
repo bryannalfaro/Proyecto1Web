@@ -49,6 +49,6 @@ You can download it in: https://nodejs.org/es/
   |<div align="center"><image src = "https://avatars.githubusercontent.com/u/46506166?v=4" width="100px" height="100px"></image></div>|
 |http://github.com/bryannalfaro|
 
-- ## License
-&copy Bryann Alfaro
+- ## License & Copyright
+&copy; Bryann Alfaro  
 Licensed under the [MIT License](LICENSE)
