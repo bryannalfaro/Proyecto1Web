@@ -6,11 +6,14 @@
 }
 
 .header{
+    width:100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #003673;
     padding-top: 30px;
     padding-bottom: 30px;
+
+    margin: auto;
 }
 .whatss{
 
@@ -25,24 +28,33 @@
     padding: 5px;
     background-position: center;
     border: 1px solid #4A90E2;
+    margin-right: 10px;
 }
 
 .login{
     display: flex;
     line-height: 42px;
-
     background-color:#003673;
     border-radius: 3.125rem;
     color: white;
     border: 1px solid #4A90E2;
     padding: 0 30px;
     letter-spacing: 1px;
+    justify-content:center;
+    align-items:center;
     font-family:'Montserrat';
+    margin: 0;
 
 
 }
 
+.group{
+    display: flex;
+    align-items: center;
+}
+
 .market{
+    height: 100%;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -57,10 +69,15 @@
     font-family:'Montserrat';
 }
 
+.group .market{
+    height:auto;
+}
+
 .icon{
     text-align: center;
     content: url('../images/basket.png');
     width:20px;
     height:20px;
     padding-left: 2px;
+    margin-right: 10px;
   }
