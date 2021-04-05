@@ -5,25 +5,25 @@ const Navbar = () => (
   <div className="nav">
     <ul className="ul">
       <li>
-        <button className="button1" type="button">Nuevo</button>
+        <button className="button1" type="button">NUEVO</button>
       </li>
       <li>
-        <button className="button2" type="button">Panadería</button>
+        <button className="button2" type="button">PANADERÍA</button>
       </li>
       <li>
-        <button className="button3" type="button">Pastelería</button>
+        <button className="button3" type="button">PASTELERÍA</button>
       </li>
       <li>
-        <button className="button4" type="button">Restaurante</button>
+        <button className="button4" type="button">RESTAURANTE</button>
       </li>
       <li>
-        <button className="button5" type="button">Regalos</button>
+        <button className="button5" type="button">REGALOS</button>
       </li>
       <li>
-        <button className="button6" type="button">Market</button>
+        <button className="button6" type="button">MARKET</button>
       </li>
       <li>
-        <button className="button7" type="button">Café</button>
+        <button className="button7" type="button">CAFÉ</button>
       </li>
 
     </ul>

@@ -5,7 +5,7 @@ import '../styles/header.css'
 const Header = () => (
   <div className="header">
     <button aria-label="Save" type="button" className="login">INICIAR SESIÓN</button>
-    <img src={logo} alt="logo" />
+    <img src={logo} alt="logo" className="logo" />
     <div className="group">
       <button aria-label="Save" type="button" className="whatss" />
       <button aria-label="Save" type="button" className="market">
