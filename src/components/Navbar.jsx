@@ -25,6 +25,7 @@ const Navbar = () => (
       <li>
         <button className="button7" type="button">CAFÉ</button>
       </li>
+      <div className="search" />
 
     </ul>
   </div>
