@@ -1,4 +1,5 @@
 import React from 'react'
+import Form from './Forms'
 import '../styles/footer.css'
 
 const Footer = () => (
@@ -13,6 +14,7 @@ const Footer = () => (
         <li>CONTACTO</li>
       </ul>
     </div>
+    <Form />
   </div>
 )
 
