@@ -1,5 +1,7 @@
 import React from 'react'
 import Form from './Forms'
+import Social from './Social'
+
 import '../styles/footer.css'
 
 const Footer = () => (
@@ -15,6 +17,7 @@ const Footer = () => (
       </ul>
     </div>
     <Form />
+    <Social />
   </div>
 )
 

@@ -58,6 +58,7 @@ const Card = ({
   const back = {
     backgroundImage: `url(${image})`,
     backgroundSize: 'cover',
+    backgroundPosition: 'center',
     height: '280px',
     backgroundColor: 'red',
   }

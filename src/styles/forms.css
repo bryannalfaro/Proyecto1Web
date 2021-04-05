@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 .form{
     width:100%;
     display:flex;
@@ -25,6 +26,7 @@
     float: left;
     margin-left: 16.666667%;
     line-height: 1.5;
+    font-family: 'Montserrat';
 }
 
 .inp{
@@ -32,4 +34,15 @@
     text-align: left;
     width: 58.333333%;
     margin: 0;
+}
+
+.email{
+    line-height:42px;
+    background-color: #fff;
+    font-size: .75rem;
+    height:42px;
+    border-radius: 40px;
+    padding: 0 10px;
+    margin-bottom: 0;
+    outline:none;
 }
