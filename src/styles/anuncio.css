@@ -1,0 +1,26 @@
+
+.anuncio{
+    position: relative;
+
+}
+
+.anuncioi{
+    background-image: url('../images/pidelo.jpg');
+    width: 1519px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+
+}
+
+.over{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    position: absolute;
+    background: rgba(0,0,0,0.3);
+}

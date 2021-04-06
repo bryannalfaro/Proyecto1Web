@@ -4,13 +4,13 @@ import '../styles/social.css'
 const Social = () => (
   <div className="icons">
     <ul className="iconlist">
-      <li>
+      <li className="li">
         <div className="facebook" />
       </li>
-      <li>
+      <li className="li">
         <div className="twitter" />
       </li>
-      <li>
+      <li className="li">
         <div className="instagram" />
       </li>
     </ul>

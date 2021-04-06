@@ -5,6 +5,7 @@ import Menu from './components/Menu'
 import Duo from './components/Duo'
 import Footer from './components/Footer'
 import Alert from './components/Alert'
+import Anuncio from './components/Anuncio'
 import './styles/app.css'
 
 const App = () => (
@@ -17,6 +18,7 @@ const App = () => (
     <Menu foto={7} foto2={8} foto3={9} title2="Ensalada santa fe del mar" title3="Pan con camarones" title4="Wrap santa fe del mar" title="Restaurante" see="VER MÁS DE RESTAURANTE" />
     <Menu foto={10} foto2={11} foto3={12} title2="Mocha 12 oz." title3="Hot cocoa 12 onzas" title4="2 café gran reserva" title="Cafe" see="VER MÁS DE CAFÉ" />
     <Duo />
+    <Anuncio />
     <Alert />
     <Footer />
 
