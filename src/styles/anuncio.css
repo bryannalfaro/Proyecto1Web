@@ -24,3 +24,20 @@
     position: absolute;
     background: rgba(0,0,0,0.3);
 }
+
+.glovo{
+    background-image: url("../images/glovo.png");
+}
+
+.apps{
+    max-width: 935px;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    padding:0;
+    transform: translate(-50%, -50%);
+}
