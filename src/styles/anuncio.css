@@ -1,8 +1,9 @@
 
 .anuncio{
     position: relative;
-
+    box-sizing: inherit;
 }
+
 
 .anuncioi{
     background-image: url('../images/pidelo.jpg');
@@ -12,6 +13,7 @@
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
+    box-sizing: inherit;
 
 }
 
@@ -26,18 +28,65 @@
 }
 
 .glovo{
-    background-image: url("../images/glovo.png");
+    max-width:48%;
+    height:auto;
+
+    margin: 1%;
+    background:#fed346;
+    padding:10px 15px;
+    float: left;
+    border-radius: 50px;
+    box-sizing: inherit;
 }
+
+.imageGlovo{
+    max-width:100%;
+    height:auto;
+    box-sizing: inherit;
+
+}
+
+.uber{
+    background:black;
+    max-width: 44%;
+    margin-top: -5px;
+    border-radius: 0;
+    float: left;
+    margin: 1%;
+    padding: 10px 15px;
+    box-sizing: inherit;
+}
+.imageUber{
+    max-width:100%;
+    height:auto;
+    box-sizing: inherit;
+}
+
 
 .apps{
     max-width: 935px;
     padding-left: 0;
     padding-right: 0;
     width: 100%;
+    text-align: center;
     position: absolute;
+
     top: 50%;
     left: 50%;
+
+    transform: translate(-50%, -50%);
     margin: 0;
     padding:0;
-    transform: translate(-50%, -50%);
+    box-sizing: inherit;
+    height: auto;
+}
+
+.deliver{
+    max-width:25%;
+    width: 100%;
+
+    float: left;
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
 }
