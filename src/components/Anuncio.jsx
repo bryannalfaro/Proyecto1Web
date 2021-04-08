@@ -8,7 +8,7 @@ const Anuncio = () => (
     <div className="anuncioi" />
     <div className="over" />
     <div className="apps">
-      <h6>-</h6>
+      <div className="empty" />
       <div className="deliver">
         <div className="glovo">
           <img src={glovo} alt="glovo" className="imageGlovo" />
