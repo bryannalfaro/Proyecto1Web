@@ -31,6 +31,8 @@
     margin: 0 15px;
     background-image: url('../images/facebook5.png');
     background-size: 100% 100%;
+    background-color: transparent;
+    border: none;
 
 }
 
@@ -40,6 +42,8 @@
     margin: 0 15px;
     background-image: url('../images/twitter3.png');
     background-size: 100% 100%;
+    background-color: transparent;
+    border: none;
 }
 .instagram{
     width:100%;
@@ -47,8 +51,8 @@
     margin: 0 15px;
     background-image: url('../images/instagram4.png');
     background-size: 100% 100%;
-
-
+    background-color: transparent;
+    border: none;
 }
 
 .f{
@@ -64,3 +68,4 @@
     padding-left: 15px;
     padding-right: 15px;
 }
+

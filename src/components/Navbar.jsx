@@ -26,7 +26,7 @@ const Navbar = () => (
         <li>
           <button className="button7" type="button">CAFÉ</button>
         </li>
-        <div className="search" />
+        <button className="search" type="button" aria-label="search" />
       </ul>
     </div>
   </div>

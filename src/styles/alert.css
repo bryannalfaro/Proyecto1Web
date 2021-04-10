@@ -36,12 +36,13 @@
     position: absolute;
     right: 1rem;
     top: .5rem;
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: 1;
     border-radius: 0;
     background-color: transparent;
     padding: 0;
     border: 0;
     font-weight: bold;
+    cursor: pointer;
 
 }
