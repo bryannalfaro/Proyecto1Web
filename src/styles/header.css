@@ -2,23 +2,20 @@
 
 .body{
     width: 100%;
-
 }
 
 .header{
-
     width:100%;
     display: flex;
     justify-content: space-around;
     background-color: #003673;
     padding-top: 30px;
     padding-bottom: 30px;
-
     margin: auto;
     align-items: center;
 }
-.whatss{
 
+.whatss{
     background-image: url('../images/whatss.png');
     width: 36px;
     height: 36px;
@@ -52,8 +49,6 @@
     font-weight: bold;
     margin: 0;
     transition: 0.3s;
-
-
 }
 
 .group{
@@ -98,5 +93,5 @@
   }
 
   .logo{
-      max-width: 275px;
+    max-width: 275px;
   }

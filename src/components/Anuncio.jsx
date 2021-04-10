@@ -13,7 +13,6 @@ const Anuncio = () => (
         <div className="glovo">
           <img src={glovo} alt="glovo" className="imageGlovo" />
         </div>
-
         <div className="uber">
           <img src={uber} alt="uber" className="imageUber" />
         </div>

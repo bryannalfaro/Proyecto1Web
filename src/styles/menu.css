@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
-
 .contenedor{
     width:100%;
     display:flex;
@@ -14,9 +13,9 @@
     padding-top: 40px;
     line-height: 1.5;
 }
+
 .texto{
     text-align:center;
-
     padding: 12px;
     font-family: 'Libre Baskerville';
     color: #003673;
@@ -32,7 +31,6 @@
     margin-top: 40px;
     line-height: 1.5;
     justify-content:center;
-
 }
 
 .see{
@@ -55,5 +53,3 @@
     background-color: #4A90E2;
     transition: 0.3s;
 }
-
-

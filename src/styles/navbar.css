@@ -3,6 +3,7 @@
 .navfa{
     background-color: white;
 }
+
 .nav{
     width:100%;
     display:flex;
@@ -11,7 +12,6 @@
     padding:0;
     margin-left: auto;
     margin-right: auto;
-
     justify-content:center;
     position: relative;
     max-width: 75rem;
@@ -25,7 +25,6 @@
     padding: 0;
     text-align:center;
     background-color:white
-
 }
 
 li{
@@ -49,14 +48,9 @@ li{
     border-bottom: 2px solid white;
 }
 
-
-
-
 ul li .button1:hover, .button2:hover, .button3:hover, .button4:hover, .button5:hover, .button6:hover, .button7:hover{
     border-bottom-style: solid;
     border-bottom-color:#003673;
-
-
 }
 
 .search{
@@ -71,4 +65,3 @@ ul li .button1:hover, .button2:hover, .button3:hover, .button4:hover, .button5:h
     line-height: 1;
     transform: translateY(-50%);
 }
-

@@ -4,21 +4,15 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-
     display:flex;
     flex-direction: row;
     justify-content:space-between;
-
     padding-top:100px;
     padding-bottom:100px;
-    /*background-color: red;*/
-
-
     max-width: 75rem;
 }
 
 .izq{
-    /*background-color: green;*/
     width:50%;
     max-width: 50%;
     display: inline-block;
@@ -28,7 +22,6 @@
 .image1{
     width: 500px;
     height:500px;
-
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -38,7 +31,6 @@
 }
 
 .der{
-    /*background-color: yellow;*/
     width:50%;
     max-width: 50%;
     position: relative;
@@ -59,12 +51,10 @@
     background-color: white;
     padding: 30px 15px;
     font-size: 3.5625em;
-
 }
 
 .block2{
     background-color: white;
     padding: 30px 15px;
     font-size: 3.5625em;
-
 }
