@@ -9,7 +9,7 @@ html,body{
 .image{
     background:url('../images/fondo.jpg');
     width:100%;
-    height:600px;
+    height:650px;
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
