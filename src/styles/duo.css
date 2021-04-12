@@ -1,12 +1,9 @@
 .padre2{
-    margin: 0;
-    padding: 0;
     margin-left: auto;
     margin-right: auto;
     position: relative;
     display:flex;
     flex-direction: row;
-    justify-content:space-between;
     padding-top:100px;
     padding-bottom:100px;
     max-width: 75rem;
@@ -15,14 +12,12 @@
 .izq{
     width:50%;
     max-width: 50%;
-    display: inline-block;
     margin: 0;
 }
 
 .image1{
     width: 500px;
     height:500px;
-    display: block;
     margin-left: auto;
     margin-right: auto;
     background-image:url('../images/duo1.jpg');
@@ -34,14 +29,12 @@
     width:50%;
     max-width: 50%;
     position: relative;
-    display: inline-block;
     margin: 0;
 }
 
 .image2{
     width:500px;
     height:500px;
-    display: block;
     margin: auto;
     background-image:url('../images/duo2.jpg');
     background-repeat: no-repeat;

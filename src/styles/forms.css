@@ -2,35 +2,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 .form{
-    width:100%;
     display:flex;
-    padding: 0;
-    flex-direction:row;
-    justify-content:space-between;
+    padding: 40px 0 0 0;
     margin: 0 auto;
-    align-items:center;
     max-width:75rem;
-    position: relative;
-    padding-top: 40px;
 }
 
 .content{
     width:100%;
     margin: 0;
-    padding: 0;
-    padding-left: .9375rem;
-    padding-right: .9375rem;
-    float: left;
+    padding: 0 15px 0 15px;
 }
 
 .titlef{
-    display:block;
     padding-right: 20px;
     font-size:.75rem;
     color: #fff;
-    margin: 0;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin: 10px 0 10px 0;
     text-align:right;
     line-height: 1.5;
     font-family: 'Montserrat';
@@ -41,26 +29,18 @@
     position: relative;
     width: 100%;
     max-width: 325px;
-    margin: 0;
-    padding:0;
-    text-align: left;
-    line-height: 1.5;
 }
 
 .email{
-    line-height:42px;
     background-color: #fff;
-    font-size: .75rem;
     height:42px;
     border-radius: 40px;
     padding: 0 10px;
     margin-bottom: 0;
     outline:none;
-    background-position: center right;
     border-color: transparent;
     width:100%;
     border: 1px solid #cacaca;
-    text-align: left;
 }
 
 .email::placeholder{
@@ -71,9 +51,6 @@
 }
 
 .titlemain{
-    padding:0px;
-    margin: 0;
-    text-align:right;
     margin-left: 16.666667%;
     width: 25%;
     float:left;
@@ -81,8 +58,6 @@
 
 
 .emailicon{
-    width: 25px;
-    height: 28px;
     position:absolute;
     right:0;
     top:20px;
@@ -92,10 +67,7 @@
 
 .padreicon{
     float: right;
-    text-align: left;
     width: 58.333333%;
-    margin: 0;
-    padding:0px;
 }
 
 .iconem{
