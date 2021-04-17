@@ -8,12 +8,12 @@ const Footer = () => (
   <div className="footer">
     <div className="opciones">
       <ul className="lista">
-        <li>SAN MARTÍN</li>
-        <li>TÉRMINOS Y CONDICIONES</li>
-        <li>PRIVACIDAD</li>
-        <li>EMPLEOS</li>
-        <li>UBICACIONES</li>
-        <li>CONTACTO</li>
+        <li><button type="button" className="buttonF">SAN MARTÍN</button></li>
+        <li><button type="button" className="buttonF">TÉRMINOS Y CONDICIONES</button></li>
+        <li><button type="button" className="buttonF">PRIVACIDAD</button></li>
+        <li><button type="button" className="buttonF">EMPLEOS</button></li>
+        <li><button type="button" className="buttonF">UBICACIONES</button></li>
+        <li><button type="button" className="buttonF">CONTACTO</button></li>
       </ul>
     </div>
     <Form />

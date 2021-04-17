@@ -14,11 +14,13 @@
     padding: 0;
 }
 
-.lista li{
+.lista li .buttonF{
     padding: 0 20px 0 20px;
     line-height: 1.6;
     font-size: .75rem;
     color: #fff;
     font-family: 'Montserrat';
     font-weight: bold;
+    background: transparent;
+    border: none;
 }
