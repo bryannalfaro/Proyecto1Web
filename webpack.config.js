@@ -46,6 +46,12 @@ module.exports = {
   plugins: [new HtmlWebpackPlugin({
     templateContent: `
     <html>
+      <head>
+
+        <meta charset="UTF-8">
+
+      </head>
+
       <body>
         <div id="root" />
       </body>
